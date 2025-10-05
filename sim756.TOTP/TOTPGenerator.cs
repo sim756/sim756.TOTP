@@ -2,7 +2,7 @@
 using System;
 using System.Security.Cryptography;
 
-namespace sim756.HOTP
+namespace sim756.TOTP
 {
     public class TOTPGenerator
     {
